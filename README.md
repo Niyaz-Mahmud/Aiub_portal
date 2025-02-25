@@ -270,5 +270,5 @@ Aula_Portal/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any issues or suggestions, please reach out at niyazmahmud48@gmail.com(mailto:niyazmahmud48@gmail.com).
+For any issues or suggestions, please reach out at niyazmahmud48@gmail.com.
 
